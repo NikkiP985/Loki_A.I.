@@ -1,0 +1,12 @@
+loki-chatbot/
+├── app.py
+├── requirements.txt
+├── .env.example
+├── templates/
+│   └── index.html
+├── static/
+│   ├── style.css
+│   └── images/
+│       ├── loki-avatar.png
+│       └── user-avatar.png
+└── README.md
